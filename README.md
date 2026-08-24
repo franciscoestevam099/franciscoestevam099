@@ -3,10 +3,10 @@
 
 <div align="center">
 
-<img src="assets/HTML.svg">
+<img src="assets/HTML.svg" wind="" heigt="">
 
-<img src="assets/CSS.svg">
+<img src="assets/CSS.svg" wind="" heigt="">
 
-<img src="assets/JavaScript.svg">
+<img src="assets/JavaScript.svg" wind="" heigt="">
 
 <div>
