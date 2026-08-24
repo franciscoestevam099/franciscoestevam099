@@ -1,6 +1,13 @@
 # Francisco Estevam Magalhaes  
 ## ALUNO SENAC
-<!--
-**franciscoestevam099/franciscoestevam099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Comecei a estilizar o site
+
+<div align="center">
+<img src="assets/HTML.svg">
+
+<img src="assets/CSS.svg">
+
+<img src="assets/JavaScript.svg">
+
+<div>
+
 
