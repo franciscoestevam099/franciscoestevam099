@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*css vem aqui em baixo*/
+body{
+   font-family: 'verdana', geneva, tahoma, sans-serif;
+   background-color: #eeecec;
+}
+
+header {
+   position: fixed;
+}
+
+body a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(236, 237, 228);
+}
+
+   body a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    
+   }
+   #apres {
+    margin: 20px;
+    padding-top: 60px;
+   }
+   #sobre {
+    margin: 20px 0px;
+    padding-top:60px;
+   }
+   #habil {
+    margin-top: 20px;
+   }
+
+.ICONE{
+   fill: #9fcbc985;
+   stroke: #FFFF;
+   stroke-width: 5px;
+   width: 75px;
+   height: 75px;
+}
+footer ul {
+   display: flex;
+   justify-content: space-around;
+   list-style-type: none;
+}
