@@ -5,7 +5,7 @@
 /*css vem aqui em baixo*/
 body{
    font-family: 'verdana', geneva, tahoma, sans-serif;
-   background-color: #eeecec;
+   background-color: #8f6d6d;
 }
 
 header {
@@ -75,7 +75,10 @@ footer ul {
     padding: 5px;
 }
 
+
 .iconeLink {
     width: 50px;
     height: 50px;
+
 }
+
