@@ -82,3 +82,11 @@ footer ul {
 
 }
 
+.modoClaro{
+    background-color: #fff;
+    color:#222;
+}
+    .modoEscuro{
+        background-color: #6b4242;
+        color: #fff;
+    }
